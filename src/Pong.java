@@ -4,9 +4,11 @@ public class Pong {
         Paddle p1;
         Paddle p2;
     }
-    public void Pong2(){
-        int height = 200;
-        int width = 150;
+    //Bordet
+    public void Area(){
+        int height = 22;
+        int width = 15;
+        
     }
     public static void main(String[] args) {
         System.out.println();
